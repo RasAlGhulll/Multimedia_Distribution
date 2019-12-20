@@ -1,12 +1,5 @@
   var firebaseConfig = {
-    apiKey: "AIzaSyDlBcEOWPdgdg3G8t7vT-Ui5mOALGECDBo",
-    authDomain: "btpfinal-f85cd.firebaseapp.com",
-    databaseURL: "https://btpfinal-f85cd.firebaseio.com",
-    projectId: "btpfinal-f85cd",
-    storageBucket: "btpfinal-f85cd.appspot.com",
-    messagingSenderId: "433415858898",
-    appId: "1:433415858898:web:aa06cab633bea0f5b1db0b",
-    measurementId: "G-4BBKJ3DPG5"
+    // add firebase cofiguratrion here
   };
   firebase.initializeApp(firebaseConfig);
 
